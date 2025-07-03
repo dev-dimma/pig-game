@@ -61,3 +61,10 @@ No build tools or dependencies required.
 ## License
 
 This project is open source and free to use.
+
+## Author
+
+- Website - [Dev Dimma](https://dev-dimma.vercel.app/)
+- Twitter - [@devdimma](https://x.com/devdimma)
+- Linkedin - [@Dimma Joel](https://www.linkedin.com/in/dimma-joel-technology-frontend-developer-dev-dimma-technical-writer/)
+
